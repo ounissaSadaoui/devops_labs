@@ -1,0 +1,7 @@
+# Terraform / Tofu
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tflog
+*.tftest.hcl
